@@ -31,7 +31,7 @@ public class App {
     calc.divide(6, 2);
 
     System.out.println(calc.getResult());
-    System.out.println(calc.getGreeting());
+    
 
 }
 
